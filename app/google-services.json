@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25226382786",
+    "project_id": "ems-jas",
+    "storage_bucket": "ems-jas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25226382786:android:85aabe45478dfd0d4a5a5b",
+        "android_client_info": {
+          "package_name": "com.jas.ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25226382786-h0mpjtmff6ec54535q1gik67drqcksqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCT8Kqgu_wf0wGs8FTUtgjk21yhi7N2Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25226382786-h0mpjtmff6ec54535q1gik67drqcksqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
